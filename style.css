@@ -1,0 +1,30 @@
+*{margin: 0; 
+padding: 0;}
+
+
+.cabeçalho{
+
+    background-color: rgb(0, 110, 255);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabeçalho-imagem{width: 7%;}
+
+.cabeçalho-lista-item{ display: inline-block;
+                       margin: 24px 24px;
+                       font-size: 24px;}
+
+.escola{background-image: linear-gradient(#1369da, #000000);
+        color: white;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 27px;}
+
+.escola-imagem{width: 25%;}
+
+.escola-texto{padding:30px 0;}
